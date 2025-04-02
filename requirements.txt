@@ -1,0 +1,4 @@
+panel==1.6.2
+watchfiles==1.0.4
+holoviews==1.20
+dask=2025.3.0
